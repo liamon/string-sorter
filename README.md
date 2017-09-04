@@ -1,7 +1,7 @@
 # string-sorter
 This was an assignment in the First-Year Programming module.
 The version I originally handed up was in one file, but I have split it into two .c files and one .h file for GitHub.
-I compiled this version by the command line, so I took out the `#include "stdafx.h` that is only required by Visual Studio.
+I compiled this version by the command line, so I took out the `#include "stdafx.h"` that is only required by Visual Studio.
 
 ## Assignment Instructions
 >- In this week’s assignment you must create a program which you will call from the command line as in the sample input
